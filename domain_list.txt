@@ -118,3 +118,6 @@ ueberamazon.de
 yamaxun.cn
 yamaxun.com
 z.cn
+amazongames.com
+aws.dev
+amazonaws.com
